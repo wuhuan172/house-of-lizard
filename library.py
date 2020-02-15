@@ -5,6 +5,15 @@ import os
 import cloudscraper
 import requests
 
+'''
+自学一周python的第一个爬虫程序，虽然有点不务正业
+放到这里纪念一下
+功能主要是爬取指定日期，评论数，和老师的作品
+有的时候会卡主不动
+小白也不太懂为啥
+继续努力
+'''
+
 headers = {
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36'}
 
